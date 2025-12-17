@@ -1,0 +1,60 @@
+.control{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  border-top: 5px orange;
+    margin: auto;
+    max-width: 350px;
+    padding: 5px;
+
+
+}
+form{
+    background-color: white;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+    
+    
+
+}
+
+
+
+button{
+    background-color: orange;
+    color: white;
+    width: 100%;
+    border: 1px solid orange;
+    height: 25px;
+}
+i{
+    border: 1px solid gray;
+}
+.control .yellow{
+    background-color: orange;
+    width: 348px;
+    height: 5px;
+}
+ form .Input-control select {
+    width: 100% ;    
+    padding-right: 130px;
+    padding-top: 7px;
+    padding-bottom: 7px;                                                                                        ;
+}
+form .Input-control input{
+    padding-right: 134px;
+
+}
+form .Input-Name input{
+    padding-right: 10px;
+    max-width: 110px;
+    
+}
+form .Input-Name #margin{
+    margin-left: 20px;
+}
+body{
+    background-color: whitesmoke;
+}
